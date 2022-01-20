@@ -11,8 +11,6 @@
 # BUS TRACKER
 
 ### Support or Contact
-
-# [snake game](zacharyeisen.github.io/docs/snake.html)
   
-  [calc](calc.html)
+ # [calc](calc.html)
 
