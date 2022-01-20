@@ -14,5 +14,5 @@
 
 # [snake game](zacharyeisen.github.io/docs/snake.html)
   
-  
+  [calc](calc.html)
 
