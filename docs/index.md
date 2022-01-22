@@ -4,6 +4,6 @@
 
 </p>
   
-  [projects](https://github.com/zacharyeisen/projects/blob/main/index.md)
+  [projects](https://zacharyeisen.github.io/projects/)
   
 
