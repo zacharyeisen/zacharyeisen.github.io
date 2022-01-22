@@ -4,6 +4,6 @@
 
 </p>
   
-  [projects](zacharyeisen.github.io/projects/)
+  [projects]( https://zacharyeisen.github.io/projects/ )
   
 
