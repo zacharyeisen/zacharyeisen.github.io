@@ -7,6 +7,8 @@
    I am a Disabled Vet. I hope to make a career change into an entry position in the tech industry.
 ```
 
-
-![](https://github.com/zacharyeisen/zacharyeisen.github.io/blob/cbf748b6066bdef42c0ca0bb54d5be66e165c89f/docs/eisenarmy.JPG?raw=true)
+<p align="center">
   
+   ![](https://github.com/zacharyeisen/zacharyeisen.github.io/blob/cbf748b6066bdef42c0ca0bb54d5be66e165c89f/docs/eisenarmy.JPG?raw=true)
+ 
+</p>
