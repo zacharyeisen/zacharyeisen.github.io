@@ -7,3 +7,6 @@
    I am a Disabled Vet. I hope to make a career change into an entry position in the tech industry.
 ```
 
+<p align="center">
+   <img width="460" height="300" src="./eisenarmy.jpg">
+</p>   
