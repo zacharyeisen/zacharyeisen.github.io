@@ -1,5 +1,5 @@
 ## Welcome To My Portfolio 
-# Click Here To Navigate to [PROJECTS](https://zacharyeisen.github.io/projects/){WHITE}
+# Click Here To Navigate to [PROJECTS](https://zacharyeisen.github.io/projects/)
 ```markdown
 ## BIO:
    My name is Zachary Eisen and I am currently enrolled in the Professional Certificate Program in Coding with MERN.
@@ -8,3 +8,4 @@
 ```
 ![](https://github.com/zacharyeisen/zacharyeisen.github.io/blob/cbf748b6066bdef42c0ca0bb54d5be66e165c89f/docs/eisenarmy.JPG?raw=true)
  
+**contacts**
