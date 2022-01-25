@@ -1,4 +1,4 @@
-# WELCOME TO MY PORTFOLIO LANDING PAGE!!!!
+#                                                                WELCOME TO MY PORTFOLIO LANDING PAGE!
 
 # Click Here To Navigate to [PROJECTS](https://zacharyeisen.github.io/projects/)
 
@@ -24,6 +24,6 @@ Or contact me via email @ zeisen4664@icloud.com
 
 ![](https://github.com/zacharyeisen/zacharyeisen.github.io/blob/cbf748b6066bdef42c0ca0bb54d5be66e165c89f/docs/eisenarmy.JPG?raw=true)
  
-**contacts**
+
 
   
