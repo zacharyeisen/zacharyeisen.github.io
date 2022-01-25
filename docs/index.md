@@ -18,6 +18,10 @@
    I am a Disabled Vet. I also have a background in the funeral industry.
    I hope to make a career change into an entry position in the tech industry.
 ```
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zachary-eisen-407109224/)
+
+Or contact me via email @ zeisen4664@icloud.com
+
 ![](https://github.com/zacharyeisen/zacharyeisen.github.io/blob/cbf748b6066bdef42c0ca0bb54d5be66e165c89f/docs/eisenarmy.JPG?raw=true)
  
 **contacts**
